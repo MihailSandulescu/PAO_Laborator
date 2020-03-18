@@ -1,4 +1,4 @@
-﻿Exercitiul 1:
+﻿﻿Exercitiul 1:
 a.
 Creati o clasa CandyBox, care va conține câmpurile private flavor (String) și origin (String). Clasa va avea, de asemenea:
 - un constructor fără parametri;
@@ -45,5 +45,5 @@ b. Scrieţi o clasă de test separată pentru clasa MyArrayList, populând lista
 
 c. Scrieţi un scenariu de utilizare a clasei MyArrayList, astfel:
 - iniţializând-o cu o capacitate de 5 de elemente iar apoi inserând 10 elemente aleatoare utilizând doar metoda add;
-- cautând 5 valori aleatoare în vector;
-- eliminând 5 valori aleatoare din vector.
+- cautând 5 valori în vector;
+- eliminând 5 valori din vector.
