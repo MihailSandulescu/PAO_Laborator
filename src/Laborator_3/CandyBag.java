@@ -13,10 +13,9 @@ public class CandyBag {
         }
     }
 
-    public boolean equalityOfLindt(){
+    public boolean equalityOfLindt() throws Exception{
         if (!(boxes.get(0) instanceof Lindt)) {
-            return false;
-            //mai bine throw exception; cum se face acest lucru? ce exceptie as putea arunca aici?
+            throw new Exception();
         }
         for(int i = 1; i < boxes.size(); ++i){
             if (!(boxes.get(i).equals(boxes.get(0)))) {
