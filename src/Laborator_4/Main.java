@@ -10,7 +10,7 @@ public class Main {
 
         Book carte1 = new Book("Abecedarul", "Decebal", "Editura Didactica", 5800);
 
-        Form [] forme = new Form[10];
+        Form[] forme = new Form[10];
 
         forme[0] = new Triangle("red", 11,4);
         forme[1] = new Circle("green",7);

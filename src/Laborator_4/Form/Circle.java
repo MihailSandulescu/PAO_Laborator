@@ -1,6 +1,6 @@
 package Laborator_4.Form;
 
-public class Circle extends  Form {
+public class Circle extends Form {
     private double radius;
 
     public Circle() {
