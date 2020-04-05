@@ -1,11 +1,12 @@
 package Laborator_4;
 
+
 import Laborator_4.Bookstore.Book;
 import Laborator_4.Form.Circle;
 import Laborator_4.Form.Form;
 import Laborator_4.Form.Triangle;
 
-public class Main {
+public class Test_4 {
     public static void main(String[] args) {
 
         Book carte1 = new Book("Abecedarul", "Decebal", "Editura Didactica", 5800);
